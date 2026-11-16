@@ -1,0 +1,5 @@
+{
+    "digital-ide.function.lsp.diagnostics.overrides": {
+        "DefinitionUsedAsValue": "off"
+    }
+}
